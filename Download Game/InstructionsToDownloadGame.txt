@@ -8,4 +8,4 @@ please edit your anti virus settings to allow the executable file to run (this v
 -Depending on your Windows version, several files might have to be installed (e.g. DirectX etc). Please allow them to 
 install
 
--Install game and launh game to play 
+-Install game and launch game to play 
